@@ -1,7 +1,7 @@
 # Spring Kafka Streams using Spring Cloud Streams End to End example
 
 ## Endpoint
-- http://localhost:8080/domain/lookup/facebook - to pull all facebook related web domain names
+- http://localhost:8081/domain/lookup/facebook - to pull all facebook related web domain names
 
 ## Microservices
 - 'domain-crawler' - uses Spring Kafka
